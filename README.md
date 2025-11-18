@@ -31,7 +31,7 @@ SQL – Talking to databases like a pro 💾 |
 Google Colab – Cloud-powered experiments ☁️ |
 VS Code – Where the magic happens 💻 |
 Git & GitHub – Version control and code playground 🌐 |
-A brain that refuses to rest – Constantly curious 🤯 |
+A brain that refuses to rest – Constantly curious 🤯 
 
 📫 Let’s Connect
 
@@ -44,4 +44,3 @@ Email: blessingobasiuzoma@gmail.com
 
 “Curiosity is my superpower. Overthinking is the side effect.”
 
-Let's Connect
