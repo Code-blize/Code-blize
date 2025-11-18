@@ -3,10 +3,10 @@ Smart. Curious. A little dramatic — but in a productive way.
 
 Hi, I’m Obasi-Uzoma Blessing — a physics-trained brain currently building my kingdom in Data Science, Machine Learning, and a little bit of Web3 chaos.
 
-I learn fast, analyze deeply, and overthink professionally.
-If it’s data, I’ll make sense of it.
-If it’s code, I’ll debug it (eventually).
-If it’s a problem… I’m already solving it.
+- I learn fast, analyze deeply, and overthink professionally.
+- If it’s data, I’ll make sense of it.
+- If it’s code, I’ll debug it (eventually).
+- If it’s a problem… I’m already solving it.
 
 🚀 What I’m Currently Working On
 
