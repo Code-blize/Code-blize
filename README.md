@@ -1,16 +1,47 @@
-## Hi there 👋
+🎉 Code-blize
+Smart. Curious. A little dramatic — but in a productive way.
 
-<!--
-**Code-blize/Code-blize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Obasi-Uzoma Blessing — a physics-trained brain currently building my kingdom in Data Science, Machine Learning, and a little bit of Web3 chaos.
 
-Here are some ideas to get you started:
+I learn fast, analyze deeply, and overthink professionally.
+If it’s data, I’ll make sense of it.
+If it’s code, I’ll debug it (eventually).
+If it’s a problem… I’m already solving it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m Currently Working On
+
+Leveling up in Python, SQL, ML & AI (obviously)
+Applying physics logic to real-world data problems
+Exploring Web3 without losing my mind
+Building small projects that will someday look like big projects 😌
+
+🧠 Tech Interests
+
+Data Science & Visualization
+Machine Learning
+AI Models
+Physics-based modelling
+Web3 & blockchain basics
+
+🔧 Tools I Use
+
+Python – My main coding wand 
+Pandas – Data wrangling made elegant 🐼
+SQL – Talking to databases like a pro 💾
+Google Colab – Cloud-powered experiments ☁️
+VS Code – Where the magic happens 💻
+Git & GitHub – Version control and code playground 🌐
+A brain that refuses to rest – Constantly curious 🤯
+
+📫 Let’s Connect
+
+Twitter: @BlezyBOBA
+LinkedIn: https://www.linkedin.com/in/blessingobasiuzoma
+Email: blessingobasiuzoma@gmail.com
+
+
+✨ Quote that sounds like me
+
+“Curiosity is my superpower. Overthinking is the side effect.”
+
+Let's Connect
