@@ -10,33 +10,33 @@ If it’s a problem… I’m already solving it.
 
 🚀 What I’m Currently Working On
 
-Leveling up in Python, SQL, ML & AI (obviously)
-Applying physics logic to real-world data problems
-Exploring Web3 without losing my mind
+Leveling up in Python, SQL, ML & AI (obviously) |
+Applying physics logic to real-world data problems |
+Exploring Web3 without losing my mind |
 Building small projects that will someday look like big projects 😌
 
 🧠 Tech Interests
 
-Data Science & Visualization
-Machine Learning
-AI Models
-Physics-based modelling
-Web3 & blockchain basics
+Data Science & Visualization |
+Machine Learning |
+AI Models |
+Physics-based modelling |
+Web3 & blockchain basics |
 
 🔧 Tools I Use
 
-Python – My main coding wand 
-Pandas – Data wrangling made elegant 🐼
-SQL – Talking to databases like a pro 💾
-Google Colab – Cloud-powered experiments ☁️
-VS Code – Where the magic happens 💻
-Git & GitHub – Version control and code playground 🌐
-A brain that refuses to rest – Constantly curious 🤯
+Python – My main coding wand |
+Pandas – Data wrangling made elegant 🐼 |
+SQL – Talking to databases like a pro 💾 |
+Google Colab – Cloud-powered experiments ☁️ |
+VS Code – Where the magic happens 💻 |
+Git & GitHub – Version control and code playground 🌐 |
+A brain that refuses to rest – Constantly curious 🤯 |
 
 📫 Let’s Connect
 
-Twitter: @BlezyBOBA
-LinkedIn: https://www.linkedin.com/in/blessingobasiuzoma
+Twitter: @BlezyBOBA | 
+LinkedIn: https://www.linkedin.com/in/blessingobasiuzoma | 
 Email: blessingobasiuzoma@gmail.com
 
 
