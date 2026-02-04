@@ -3,9 +3,6 @@ Smart. Curious. A little dramatic — but in a productive way.
 
 Hi, I’m Obasi-Uzoma Blessing — a physics-trained brain currently building my kingdom in Data Science, Machine Learning, and a little bit of Web3 chaos. I write too.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Code-blize&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-blize&layout=compact&theme=radical)
-
 - I learn fast, analyze deeply, and overthink professionally.
 - If it’s data, I’ll make sense of it.
 - If it’s code, I’ll debug it (eventually).
