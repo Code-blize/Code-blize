@@ -1,4 +1,4 @@
-# Hi, I’m Blessing Obasi-Uzoma
+# Hi, I’m Obasi-Uzoma Blessing
 
 I’m a physics-trained Data Scientist with growing interests in machine learning, geospatial analysis, and data storytelling.
 
