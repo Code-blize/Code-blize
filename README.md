@@ -1,47 +1,23 @@
-🎉 Code-blize
-Smart. Curious. A little dramatic — but in a productive way.
+# Hi, I’m Blessing Obasi-Uzoma
 
-Hi, I’m Obasi-Uzoma Blessing — a physics-trained brain currently building my kingdom in Data Science, Machine Learning, and a little bit of Web3 chaos. I write too.
+I’m a physics-trained Data Scientist with growing interests in machine learning, geospatial analysis, and data storytelling.
 
-- I learn fast, analyze deeply, and overthink professionally.
-- If it’s data, I’ll make sense of it.
-- If it’s code, I’ll debug it (eventually).
-- If it’s a problem… I’m already solving it.
+My work sits at the intersection of data, maps, and models — using Python, SQL, ArcGIS, and analytical thinking to explore real-world problems and communicate insight clearly.
 
-🚀 What I’m Currently Working On
+## Interests
+- Data Science
+- GIS & Geospatial Analytics
+- Machine Learning
+- Climate & Urban Data
+- Computer Vision
+- Data Storytelling
 
-- Leveling up in Python, SQL, ML & AI (obviously) 
-- Applying physics logic to real-world data problems 
-- Exploring Web3 without losing my mind 
-- Building small projects that will someday look like big projects 😌
+## Tools
+Python | SQL | ArcGIS | GeoPandas | Power BI | Scikit-learn | Pandas | Jupyter Notebook | Git
 
-🧠 Tech Interests
+## Connect
+- LinkedIn: [blessingobasiuzoma](https://www.linkedin.com/in/blessingobasiuzoma)
+- Medium: [@YourGrowthFriend](https://medium.com/@blessingobasiuzoma)
+- X: [@BlezyBOBA](https://x.com/BlezyBOBA)
 
-- Data Science & Visualization 
-- Machine Learning 
-- AI Models 
-- Physics-based modelling 
-- Web3 & blockchain basics 
-
-🔧 Tools I Use
-
-- Python – My main coding wand 
-- Pandas – Data wrangling made elegant 🐼 
-- SQL – Talking to databases like a pro 💾 
-- Google Colab – Cloud-powered experiments ☁️ 
-- VS Code – Where the magic happens 💻 
-- Git & GitHub – Version control and code playground 🌐 
-- A brain that refuses to rest – Constantly curious 🤯 
-
-📫 Let’s Connect
-
-- Twitter: @BlezyBOBA 
-- LinkedIn: https://www.linkedin.com/in/blessingobasiuzoma 
-- Email: [blessingobasiuzoma@gmail.com](mailto:blessingobasiuzoma@gmail.com)
-- Medium: https://medium.com/@blessingobasiuzoma
-
-
-✨ Quote that sounds like me
-
-“Curiosity is my superpower. Overthinking is the side effect.”
-
+> Turning curiosity into projects, and projects into growth.
